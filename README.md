@@ -39,7 +39,7 @@ export OPENAI_API_KEY="your_api_key_here"
 
 ## 📊 Data Generation 
 <p align="center">
-  <img src="fig/data.jpg" width="80%"/>
+  <img src="fig/data.jpg" width="100%"/>
 </p>
 
 The dataset is constructed in two main steps:
