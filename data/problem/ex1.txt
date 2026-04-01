@@ -1,0 +1,9 @@
+Define a function classify_triangle(a,b,c) such that it takes three non-negative numbers a, b, and c that represent the lengths of line segments and returns the following value: 
+0 if they do not form a triangle, 
+1 if they form an acute triangle,
+2 if they form a right triangle, and
+3 if they form an obtuse triangle.
+
+The function prototype is given: 
+def classify_triangle(a, b, c):
+    ...
