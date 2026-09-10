@@ -6,6 +6,9 @@
   <img src="fig/teaser.jpg" width="80%"/>
 </p>
 
+<p align="center">
+  <img src="fig/detect-on-course.jpg" width="80%"/>
+</p>
 
 ## 🔍 Overview
 Detect LLM-generated code with high accuracy — and explain why.
