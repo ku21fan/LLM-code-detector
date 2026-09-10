@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="fig/detect-on-course.jpg" width="80%"/>
+  <img src="fig/detect-on-course-repo.jpg" width="80%"/>
 </p>
 
 ## 🔍 Overview
